@@ -2,7 +2,6 @@
 - 👀 I’m interested in mechanical keyboards
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on frontend web-development
-- 📫 How to reach me hmmm i just you can dm me @thesmolchild
 
 <!---
 Chaoticsmolchild/Chaoticsmolchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
