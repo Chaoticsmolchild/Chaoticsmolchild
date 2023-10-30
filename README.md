@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Chaoticsmolchild
-- 👀 I’m interested in mechanical keyboards
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on frontend web-development
+- Hi Hi I'm Dian :3
+- Welcome to my coding dumpster fire
+- If you're interested in my "Design" dumpster fire do visit my other social links! <3
 
 <!---
 Chaoticsmolchild/Chaoticsmolchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
